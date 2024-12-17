@@ -351,3 +351,12 @@ iframe {
  p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
+.mi {
+    background-color: #ffb3cc;
+    border-radius: 10px;
+ }
+
+ .li {
+    display: flex;
+    justify-content: center;
+ }
